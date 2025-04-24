@@ -1,4 +1,3 @@
-# SoftwareDocSearch
 # Structured Search for Software Documentation
 
 This project introduces an intelligent information retrieval (IR) system tailored for software documentation, addressing the common issues of dense, unstructured, and inconsistent content. The system processes documents in various formats (HTML, Markdown, Javadoc, Jsdoc), extracts and segments meaningful sections (e.g., code blocks, explanations, API references), and indexes them to enable effective search and retrieval.  It is designed to help developers quickly find the information they need.
